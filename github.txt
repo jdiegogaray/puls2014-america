@@ -4,9 +4,9 @@ hosting barato normal ---> public_html/ <---- FTP
 index.php
 images
 leonidas
-www.dogecoin.com
+www.diegogaray.com
 
-SISTEMA DE CONTROL DE VERSIONES
+SISTEMAaa DE CONTROL DE VERSIONES
 
 SVN: Supervision / mercurial / TFS / CVS/ GIT
 GITHUB
