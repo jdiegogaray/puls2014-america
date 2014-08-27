@@ -1,0 +1,20 @@
+FTP
+Tranmisión de archivos
+hosting barato normal ---> public_html/ <---- FTP
+index.php
+images
+leonidas
+www.dogecoin.com
+
+SISTEMA DE CONTROL DE VERSIONES
+
+SVN: Supervision / mercurial / TFS / CVS/ GIT
+GITHUB
+1. Red social de programadores
+2. Web / Apps
+3. Mucho mas fácil
+
+=====
+
+Repositorio de codigo GITHUB (master
+)
